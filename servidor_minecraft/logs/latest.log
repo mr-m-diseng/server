@@ -93,3 +93,9 @@
 [20:23:22] [Server thread/INFO]: gordopancho10_v2 lost connection: Timed out
 [20:23:22] [Server thread/INFO]: gordopancho10_v2 left the game
 [20:23:22] [Server thread/WARN]: handleDisconnection() called twice
+[20:26:53] [Server thread/INFO]: blasrodz has made the advancement [Diamonds!]
+[20:32:41] [Server thread/INFO]: blasrodz lost connection: Disconnected
+[20:32:41] [Server thread/INFO]: blasrodz left the game
+[20:33:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:34:05] [Server thread/INFO]: blasrodz[/127.51.159.27:51785] logged in with entity id 34695 at (-428.5685137548382, -47.0, 648.8875301863419)
+[20:34:05] [Server thread/INFO]: blasrodz joined the game
