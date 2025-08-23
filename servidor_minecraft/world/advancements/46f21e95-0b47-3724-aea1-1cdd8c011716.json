@@ -11,6 +11,7 @@
       "minecraft:snowy_slopes": "2025-08-23 19:41:51 +0000",
       "minecraft:dark_forest": "2025-08-23 18:31:14 +0000",
       "minecraft:forest": "2025-08-23 19:27:14 +0000",
+      "minecraft:deep_dark": "2025-08-23 19:57:26 +0000",
       "minecraft:river": "2025-08-23 17:52:23 +0000",
       "minecraft:grove": "2025-08-23 19:25:59 +0000",
       "minecraft:meadow": "2025-08-23 19:35:48 +0000",
@@ -303,6 +304,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-23 19:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-23 19:50:44 +0000"
@@ -372,6 +379,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-08-23 18:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
     },
     "done": true
   },
@@ -456,6 +469,18 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-23 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
     },
     "done": true
   },
@@ -609,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-23 18:16:59 +0000"
@@ -747,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-08-23 18:43:35 +0000"
@@ -783,9 +820,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-23 19:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-23 20:02:07 +0000"
     },
     "done": true
   },
@@ -933,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:21:52 +0000"
@@ -975,6 +1030,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
     },
     "done": true
   },
@@ -1377,6 +1438,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:57:44 +0000"
     },
     "done": true
   },

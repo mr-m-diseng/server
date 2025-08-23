@@ -173,6 +173,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-23 18:12:25 +0000"
@@ -233,6 +245,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-23 19:48:42 +0000"
@@ -272,6 +296,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
     },
     "done": true
   },
@@ -335,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-23 18:13:23 +0000"
@@ -362,6 +398,18 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-23 18:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
     },
     "done": true
   },
@@ -509,9 +557,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-23 18:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
     },
     "done": true
   },
@@ -536,6 +596,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-23 18:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
     },
     "done": true
   },
@@ -647,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-23 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-23 19:53:41 +0000"
@@ -680,6 +752,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-23 18:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
     },
     "done": true
   },
@@ -750,6 +828,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
     },
     "done": true
   },
@@ -855,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-08-23 18:37:29 +0000"
@@ -870,6 +960,12 @@
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-08-23 18:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
     },
     "done": true
   },
@@ -891,6 +987,7 @@
       "minecraft:snowy_slopes": "2025-08-23 19:44:34 +0000",
       "minecraft:dark_forest": "2025-08-23 18:25:44 +0000",
       "minecraft:forest": "2025-08-23 19:33:05 +0000",
+      "minecraft:deep_dark": "2025-08-23 20:00:32 +0000",
       "minecraft:river": "2025-08-23 18:13:17 +0000",
       "minecraft:grove": "2025-08-23 19:25:52 +0000",
       "minecraft:meadow": "2025-08-23 19:36:12 +0000",
@@ -973,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-08-23 18:13:18 +0000"
@@ -1004,6 +1107,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-23 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
     },
     "done": true
   },
@@ -1109,6 +1218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-23 18:53:25 +0000"
@@ -1139,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-23 20:04:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_string": "2025-08-23 18:53:25 +0000"
@@ -1166,6 +1287,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-23 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-23 19:55:37 +0000"
     },
     "done": true
   },
