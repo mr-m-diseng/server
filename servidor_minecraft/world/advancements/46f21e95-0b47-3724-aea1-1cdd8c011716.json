@@ -178,6 +178,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-08-23 19:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-23 18:20:29 +0000"
@@ -238,6 +244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-23 19:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:21:52 +0000"
@@ -286,6 +298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-23 19:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-23 18:33:15 +0000"
@@ -307,6 +325,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-08-23 18:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-23 19:11:18 +0000"
     },
     "done": true
   },
@@ -388,6 +412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-23 19:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 18:21:52 +0000"
@@ -403,6 +433,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-08-23 18:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-08-23 19:11:38 +0000"
     },
     "done": true
   },
@@ -520,6 +556,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-08-23 19:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-08-23 19:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-23 18:17:19 +0000"
@@ -592,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-23 19:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-23 18:09:39 +0000"
@@ -643,6 +697,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-23 18:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-23 19:07:46 +0000"
     },
     "done": true
   },
@@ -717,6 +777,8 @@
       "minecraft:skeleton": "2025-08-23 18:11:54 +0000",
       "minecraft:creaking": "2025-08-23 18:29:42 +0000",
       "minecraft:vindicator": "2025-08-23 18:35:40 +0000",
+      "minecraft:enderman": "2025-08-23 19:12:05 +0000",
+      "minecraft:spider": "2025-08-23 19:19:49 +0000",
       "minecraft:vex": "2025-08-23 18:54:34 +0000",
       "minecraft:zombie": "2025-08-23 18:27:23 +0000",
       "minecraft:creeper": "2025-08-23 18:35:55 +0000",
@@ -764,6 +826,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-23 18:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-23 19:11:18 +0000"
     },
     "done": true
   },
@@ -833,9 +901,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-08-23 19:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/resin_brick": {
     "criteria": {
       "has_resin_clump": "2025-08-23 18:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-23 19:11:18 +0000"
     },
     "done": true
   },
